@@ -1,5 +1,4 @@
-# marcusharg.github.io
-Assessment-1-RMIT
+# Assessment 1
 Personal Info
 My name is Marcus Hargreaves, RMIT student number s3735636, s3735636@student.rmit.edu.au. 
 GitHub Repositaory URL: 
