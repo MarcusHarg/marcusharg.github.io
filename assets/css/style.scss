@@ -1,5 +1,59 @@
----
----
-@import "{{ ssite.theme }}";
-"minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+body {
+	background-color: #15202b;
+	color: #ffffff;
+}
+
+h1 {
+	margin: 20px 0% 20px 6%;
+	font-size: 60px;
+	font-family: sans-serif;
+	width: 60%;
+}
+
+h2 {
+	margin: 10px 0% 10px 8%;
+	font-size: 40px;
+	font-family: sans-serif;
+	width: 60%;
+}
+
+h3 {
+	margin: 20px 0% 10px 10%;
+	font-size: 35px;
+	font-family: sans-serif;
+	width: 60%;
+}
+
+h4 {
+	margin: 50px 0% 0px 6%;
+	font-size: 40px;
+	font-family: sans-serif;
+	color: #ffffff;
+	width: 60%;
+}
+
+p {
+	margin: 5px 0% 10px 12%;
+	font-size: 20px;
+	color: #cccccc;
+	width: 60%;
+}
+
+dt {
+	margin: 15px 0% 5px 12%;
+	font-size: 20px;
+	width: 60%;
+}
+
+dd {
+	margin: 5px 0% 10px 12%;
+	font-size: 20px;
+	color: #cccccc;
+	width: 60%;
+}
+
+img {
+	float: right;
+	width: 24%;
+	margin: 0px 0% 0px 4%;
+}
