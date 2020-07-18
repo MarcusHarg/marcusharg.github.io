@@ -1,1 +1,2 @@
-# IIT Assessment 1
+IIT Assessment 1
+Marcus Hargreaves
